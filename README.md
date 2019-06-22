@@ -1,1 +1,3 @@
 # QuadraticEquation
+
+Quadratic equation calculator
